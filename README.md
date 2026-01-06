@@ -13,5 +13,8 @@ It replicates the look and feel of a shopping platform for learning purposes onl
 - HTML5
 - CSS3
 
+- ## Live Link
+- https://amazon-clone-ui-nine.vercel.app/
+
 
 
