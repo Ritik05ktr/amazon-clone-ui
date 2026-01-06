@@ -1,20 +1,19 @@
-# 🛒 E-Commerce Website (Amazon-Style Clone)
+# Amazon Clone – Web UI
 
-This project is a simple E-commerce website clone** built with HTML, CSS.  
-It replicates the look and feel of a shopping platform for learning purposes only.
+A responsive Amazon homepage UI clone built using HTML and CSS, replicating the layout and visual structure of the Amazon website.
 
-## ✨ Features
-- Stylish homepage with product grid
-- Responsive design
-- Add-to-cart simulation
-- Product categories
+## Features
+- Header with search bar and navigation menu
+- Product category cards and promotional sections
+- Multi-column product grid layout
+- Footer with structured links
+- Responsive layout using Flexbox
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
+## Tech Stack
+HTML5, CSS3
 
-- ## Live Link
-- https://amazon-clone-ui-nine.vercel.app/
+## Live Demo
+https://amazon-clone-ui-nine.vercel.app/
 
-
-
+## Purpose
+This project was built to practice responsive web design, layout structuring, and modern CSS techniques.
